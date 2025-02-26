@@ -1,2 +1,0 @@
-# Resume
-Interavtive Resume Portfolio
